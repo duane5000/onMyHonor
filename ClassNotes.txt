@@ -71,7 +71,7 @@ http://www.blender.org/documentation/248PythonDoc/
 Class notes
 environment setup python + blender
 repository - where we keep and share our code
-public or private - can others contribute?
+note to self: public or private - can others contribute?
 game storyBoard / project planning
 weekly puzzle and last week solution - python  (what's missing? puzzle and solution given, but missing pieces)
 basic concepts: functions, parameters, return values, structure, blocks, loops
@@ -83,18 +83,3 @@ diagramming - UML unified modeling language, psudeoCode, logic flow diagram, cla
 generators - hibernate, seamGen
 pattern-programming - MVC, factory, dependency injection,
 tutorial videos
-
-
-Trail Life
-Honoring the legacy, Raising the standard
-Etched in clay
-handshake and other means to focus on AHG/trail life
-christmas party
-quest game
-purpose passion - cadence, yell, skit
-leader heirarchy
-5-8  pathfinder/tenderheart
-9-13 explorer/pioneer
-earning badges
-small group time schedules (leads)
-I'll help with 9 and under from beginning
