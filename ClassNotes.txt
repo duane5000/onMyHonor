@@ -5,25 +5,51 @@ blender.org
 http://wiki.blender.org/index.php/Dev:Source/Architecture
 http://docs.python.org/2/tutorial/index.html
 
+--alternate technology, eclipse(spring) tools have plugins for python(for later)
+https://developers.google.com/appengine/downloads
+pygame - http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python
+
 Repo - save frequently - 
 install git from http://git-scm.com/downloads
+*****************************
+GIT
+download
+https://help.github.com/articles/set-up-git
+http://git-scm.com/download/win
+
 command line:
   git clone https://github.com/duane5000/onMyHonor
   http://gitref.org/creating/
   git init
   create a file, then : git add ClassNotes.txt
+  
+  git add
+  git config --global user.name "Duane Rosengartner"
+  git commit --amend --reset-author -m"added class notes"
+  git config --global user.email "duane5000@hotmail.com"
+  git commit --amend --reset-author
+  
+  ** always get latest changes first
   git pull
+  ** then push your changes if no conflicts..
+  ** conflicts must be merged manually
   git push
+  
   git status
+
 howTo ndpsoftware.com/git-cheatsheet.html
-
-
+*****************************
 --Modeling
 --animation
 --gaming
 
-2 minute tutorials
+Topic tutorials
+http://www.youtube.com/watch?v=-2uY7rjhhMs  minion tutorial
 
+
+http://tiny.cc/2mintuts.
+https://www.facebook.com/2minutetutorials
+2 minute tutorials
 tutorial 1 **********
   object mode
   edit mode
@@ -71,7 +97,7 @@ http://www.blender.org/documentation/248PythonDoc/
 Class notes
 environment setup python + blender
 repository - where we keep and share our code
-note to self: public or private - can others contribute?
+public or private - can others contribute?
 game storyBoard / project planning
 weekly puzzle and last week solution - python  (what's missing? puzzle and solution given, but missing pieces)
 basic concepts: functions, parameters, return values, structure, blocks, loops
@@ -83,3 +109,18 @@ diagramming - UML unified modeling language, psudeoCode, logic flow diagram, cla
 generators - hibernate, seamGen
 pattern-programming - MVC, factory, dependency injection,
 tutorial videos
+
+
+Trail Life
+Honoring the legacy, Raising the standard
+Etched in clay
+handshake and other means to focus on AHG/trail life
+christmas party
+quest game
+purpose passion - cadence, yell, skit
+leader heirarchy
+5-8  pathfinder/tenderheart
+9-13 explorer/pioneer
+earning badges
+small group time schedules (leads)
+I'll help with 9 and under from beginning
